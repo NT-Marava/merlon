@@ -303,7 +303,7 @@ body .page.sidebar-true .site-main{
     background-position: top;
     background-repeat: no-repeat;
     vertical-align: middle;
-    min-height: calc(100vh - 8rem);
+    min-height: calc(100vh - 2rem);
     position: relative;
   }
 
